@@ -1,0 +1,7 @@
+display: grid;
+grid-template-columns: auto 1fr 0.5fr; 
+/* Make 3 columns grid container and specify a size for each column */
+
+auto  : first column
+1fr   : second column
+0.5fr : third column
